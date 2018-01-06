@@ -503,9 +503,10 @@ address{
 	}
 	.how-bootup-helps-blocks {
     	margin: 10px 0px 30px 110px;
+    	width: 200px;
 	}
 	.how-bootup-helps-blocks h5 {
-    	margin: 15px 220px 15px 0px;
+    	margin: 15px 220px 15px 40px;
 	}
 	.infrastructure_block{
 		height: 260px;
